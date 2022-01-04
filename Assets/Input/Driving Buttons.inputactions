@@ -1,0 +1,78 @@
+{
+    "name": "Driving Buttons",
+    "maps": [
+        {
+            "name": "MenuButtons",
+            "id": "272f6d14-89ba-496f-b7ff-215263d3219f",
+            "actions": [
+                {
+                    "name": "Reverse",
+                    "type": "Button",
+                    "id": "e91ffee7-ec69-40fb-8663-4ebf07153bfe",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9603ae96-fef3-432c-88a0-282232c1368d",
+                    "path": "<XRController>{LeftHand}/trackpadClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reverse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "53cfe29e-c0bc-4cab-9cbc-a07072333573",
+                    "path": "<XRController>{RightHand}/trackpadClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reverse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "899ea95f-a582-4e0a-9710-3142e9db9084",
+                    "path": "<ValveIndexController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reverse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7a381707-9861-4db4-aaf0-af2fd6f35fc9",
+                    "path": "<ValveIndexController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reverse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "XR Usage",
+            "bindingGroup": "XR Usage",
+            "devices": [
+                {
+                    "devicePath": "<XRController>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

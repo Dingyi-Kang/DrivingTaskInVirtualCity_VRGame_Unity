@@ -1,0 +1,64 @@
+{
+    "name": "Driving Recenter",
+    "maps": [
+        {
+            "name": "Touchpads",
+            "id": "80752205-a8db-480a-b2d8-85a26d744b41",
+            "actions": [
+                {
+                    "name": "LeftTouchpad",
+                    "type": "Button",
+                    "id": "7cbc114b-f9d8-437a-b797-6ba43c422349",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "RightTouchpad",
+                    "type": "Button",
+                    "id": "c37ab2c0-29e0-4bc3-9ee6-87c7bc8e0f76",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a1b6e23e-f737-4490-8015-0273a2824b9e",
+                    "path": "<XRController>{LeftHand}/menu",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftTouchpad",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8c7cbf8c-37b9-4cef-84ce-288ba0115af9",
+                    "path": "<XRController>{RightHand}/menu",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightTouchpad",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "XR Usage",
+            "bindingGroup": "XR Usage",
+            "devices": [
+                {
+                    "devicePath": "<XRController>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

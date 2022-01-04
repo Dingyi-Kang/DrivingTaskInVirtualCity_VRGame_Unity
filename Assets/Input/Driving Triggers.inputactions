@@ -1,0 +1,110 @@
+{
+    "name": "Driving Triggers",
+    "maps": [
+        {
+            "name": "LeftHand",
+            "id": "272f6d14-89ba-496f-b7ff-215263d3219f",
+            "actions": [
+                {
+                    "name": "TriggerPress",
+                    "type": "Button",
+                    "id": "578a0cd6-f388-4fa3-92f3-c09338bdf6fc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Trigger",
+                    "type": "Value",
+                    "id": "5c8cf249-a01c-4b19-8eea-152b951f6a5a",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b9c19907-3b5c-4207-ad18-5a86655f688c",
+                    "path": "<XRController>{LeftHand}/{triggerButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ec353a5a-6a7a-4ee6-a33e-d12a8c0b705a",
+                    "path": "<XRController>{LeftHand}/{trigger}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "XR Usage",
+                    "action": "Trigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "RightHand",
+            "id": "fd87d126-5dc2-445c-82df-1abc6c9f8076",
+            "actions": [
+                {
+                    "name": "TriggerPress",
+                    "type": "Button",
+                    "id": "bc163c5e-01a5-48ae-83b3-87e68f24f888",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Trigger",
+                    "type": "Value",
+                    "id": "2fccaf18-d578-4ac9-9d0b-08db4a2e1dc7",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e2185573-2cbd-4af0-9d4b-e03ff8b24d8f",
+                    "path": "<XRController>{RightHand}/{triggerButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d1bf452d-b059-4c1e-9c23-3be1c6be789e",
+                    "path": "<XRController>{RightHand}/{trigger}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "XR Usage",
+                    "action": "Trigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "XR Usage",
+            "bindingGroup": "XR Usage",
+            "devices": [
+                {
+                    "devicePath": "<XRController>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

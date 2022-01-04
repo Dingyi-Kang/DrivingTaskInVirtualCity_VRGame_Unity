@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: f0f8d6ec375ee584caaa4507393492d8
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 3388401897763517396
+    second: chassis|door_lf_okAction
+  - first:
+      74: 824093832591181001
+    second: chassis|WheelRideAction
+  - first:
+      74: -5781376765165065948
+    second: salon|door_lf_okAction
+  - first:
+      74: 4641532959880238758
+    second: salon|WheelRideAction
+  - first:
+      74: 5912608424085256743
+    second: fari_zad|door_lf_okAction
+  - first:
+      74: -3963202881082982772
+    second: fari_zad|WheelRideAction
+  - first:
+      74: -995847113524657523
+    second: dviga|door_lf_okAction
+  - first:
+      74: 5950771865025657687
+    second: dviga|WheelRideAction
+  - first:
+      74: 6778283679944957650
+    second: brizgov|door_lf_okAction
+  - first:
+      74: 2530319653605532232
+    second: brizgov|WheelRideAction
+  - first:
+      74: -4226087767156552807
+    second: per_fari|door_lf_okAction
+  - first:
+      74: 7192385138926767630
+    second: per_fari|WheelRideAction
+  - first:
+      74: -1261469434029567672
+    second: stekla_far|door_lf_okAction
+  - first:
+      74: -8011317697779216863
+    second: stekla_far|WheelRideAction
+  - first:
+      74: 6986252451712033152
+    second: windscreen_ok|door_lf_okAction
+  - first:
+      74: -6640002821409824115
+    second: windscreen_ok|WheelRideAction
+  - first:
+      74: 4922229912897394464
+    second: bump_rear_ok|door_lf_okAction
+  - first:
+      74: 2067165170157093829
+    second: bump_rear_ok|WheelRideAction
+  - first:
+      74: 258984250050299878
+    second: door_rf_ok|door_lf_okAction
+  - first:
+      74: 6954558100442843814
+    second: door_rf_ok|WheelRideAction
+  - first:
+      74: -8021009244978020285
+    second: door_lf_ok|door_lf_okAction
+  - first:
+      74: -2514639915396615828
+    second: door_lf_ok|WheelRideAction
+  - first:
+      74: 558337135958489747
+    second: bonnet_ok|door_lf_okAction
+  - first:
+      74: 705651513350512280
+    second: bonnet_ok|WheelRideAction
+  - first:
+      74: 1234801172550363707
+    second: bump_front_ok|door_lf_okAction
+  - first:
+      74: -7690303013412345182
+    second: bump_front_ok|WheelRideAction
+  - first:
+      74: 309188262484935608
+    second: podveska|door_lf_okAction
+  - first:
+      74: -7759363839807239327
+    second: podveska|WheelRideAction
+  - first:
+      74: -2986386551394606553
+    second: WheelRide|door_lf_okAction
+  - first:
+      74: 3234754875531201133
+    second: WheelRide|WheelRideAction
+  - first:
+      74: -5490168537846013606
+    second: podveska.001|door_lf_okAction
+  - first:
+      74: 6905340669079499544
+    second: podveska.001|WheelRideAction
+  - first:
+      74: 4681947233257003422
+    second: podveska.002|door_lf_okAction
+  - first:
+      74: 5877467123410081390
+    second: podveska.002|WheelRideAction
+  - first:
+      74: -2461705213617252619
+    second: hub_lf.001|door_lf_okAction
+  - first:
+      74: -98890121827073415
+    second: hub_lf.001|WheelRideAction
+  - first:
+      74: 3800258640191682654
+    second: hub_lf.002|door_lf_okAction
+  - first:
+      74: -8666467187996041436
+    second: hub_lf.002|WheelRideAction
+  - first:
+      74: -459482693449362803
+    second: StopFL|door_lf_okAction
+  - first:
+      74: 7886725299732919628
+    second: StopFL|WheelRideAction
+  - first:
+      74: 1812482279015207824
+    second: StopFR|door_lf_okAction
+  - first:
+      74: 7012214857181075231
+    second: StopFR|WheelRideAction
+  - first:
+      74: 1733147275998993768
+    second: Boot|door_lf_okAction
+  - first:
+      74: 3907935345366992105
+    second: Boot|WheelRideAction
+  - first:
+      74: -9199247032452126447
+    second: Plane|door_lf_okAction
+  - first:
+      74: -8301634164470844661
+    second: Plane|WheelRideAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baraban
+    second: {fileID: 2100000, guid: 94c7b33faa2de8246a11b42ea785c115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarColor
+    second: {fileID: 2100000, guid: 186d676f59b6ed54d8ade4e755a2f0c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome1
+    second: {fileID: 2100000, guid: 510d568c392c2f9479397c555314b9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome2
+    second: {fileID: 2100000, guid: 129679d6428672a459226474ec19b900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dno_car
+    second: {fileID: 2100000, guid: 2c3cb84e52bd47948801f4d3011748d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExterTxt
+    second: {fileID: 2100000, guid: 0e92a085a8b695944aaad1b316f7fe46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FM_Interior0
+    second: {fileID: 2100000, guid: cf71316728cedc846a10dd722dd750a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FariFront
+    second: {fileID: 2100000, guid: eff146cec5cc6824caa3d11eb498fbd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: c65f81d15c08c524aa345dd6e367c8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kover_Black
+    second: {fileID: 2100000, guid: c1483b7c35dfba4429e33b9e7cea66ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Krisha_potolok
+    second: {fileID: 2100000, guid: 2661e2aa71d38cb4eb8adccd22b56500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampos
+    second: {fileID: 2100000, guid: 2310fad7c1b8dc349b0b50650920daf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MOTOR
+    second: {fileID: 2100000, guid: dc041ada9d4aa9a4787b071d7417687e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Musicincar
+    second: {fileID: 2100000, guid: 8a8417391718a2244952fc7ee9cc1c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Number
+    second: {fileID: 2100000, guid: 494a5e05f17eb2841b30c58da216436b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OBSHIVKA_BACK
+    second: {fileID: 2100000, guid: e420d5202acd31f4a95f741277624ced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OBSHIVKA_Door
+    second: {fileID: 2100000, guid: 8ab96fc59852b3d43b741679c3719305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLASTIK
+    second: {fileID: 2100000, guid: 4f0cefa8600550a49b100d7de31575e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 2e8b584c4f9285e42b30b6e832b675c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic.Black
+    second: {fileID: 2100000, guid: 7a366bce855fc4a49949e232db2e4aef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RADIATOR
+    second: {fileID: 2100000, guid: b5dbb82b9a8ecf3409716e1abecf6751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rezina
+    second: {fileID: 2100000, guid: fd92e71494fd32146ac952e01e307d6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rezina_Black
+    second: {fileID: 2100000, guid: 0f4d8acd3a631f342927e84635628c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruchka_KPP
+    second: {fileID: 2100000, guid: 3bc723446c9294f439b562dddea73a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SIDENYA
+    second: {fileID: 2100000, guid: 9c42d14d781e0b24cb979a5eb4856d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TORPEDA
+    second: {fileID: 2100000, guid: 4d38715b3e795d74e929f9210c99a44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VIHLOP
+    second: {fileID: 2100000, guid: a95a605a41d0bed42a8fc66cb7232fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZERKALO
+    second: {fileID: 2100000, guid: 7041527b80989504dbdc9c54834ad248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carburetor
+    second: {fileID: 2100000, guid: 8dee8ccbc2ac6a347a1a95866e23a8ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: priborka
+    second: {fileID: 2100000, guid: b371d79de04a463439efb11e029114a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel2
+    second: {fileID: 2100000, guid: cc45a1a108ab6204c87d58215b654c36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelRide
+    second: {fileID: 2100000, guid: 838787efd50943149a1931f21e31fb3e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: 2147483647
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
